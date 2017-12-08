@@ -24,6 +24,8 @@ int main()
 
 	dispList(myList, 4);
 
+	cout << "this code is at github.com" << endl;
+
 
 	cout << endl;
 	cout << endl;
